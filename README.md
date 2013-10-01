@@ -58,7 +58,7 @@ mkdir random-images
 cd random-images
 ```
 
-Next, let's grab some random images.
+Next, let's grab some random images. Any `*.jpg` image will do. If you are awesome and have wget then the commands below will work. On OS X you can get wget with Hombrew `brew install wget`.
 
 ````
 wget http://lorempixel.com/500/500/ -O random-1.jpg
